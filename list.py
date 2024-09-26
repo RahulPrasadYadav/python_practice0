@@ -1,3 +1,6 @@
+
+
+
 item=["bread","pasta","fruites"]
 print(item)
 print(item[0])
