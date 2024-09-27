@@ -33,3 +33,4 @@ print(str2.count("u"))  # 4 output u is  4 time
 str3="welcome to my world "
 print(str3.find("to"))
 print(str3.index("to"))
+Q
