@@ -4,3 +4,8 @@ if(a>18):
       print("You Can drive")
 else:
     print("You can not drive")
+# >,<, >=, <=, ==, !=
+print(a>18)
+print(a<=18)
+print(a==18)
+print(a!=18)
