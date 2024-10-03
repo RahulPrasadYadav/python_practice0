@@ -5,9 +5,22 @@ print(a&b)
 # and oprater
 a=50; b=90
 print(a&b)
-c=111
-e=222
+c=44
+e=144
 print(bin(c))
 print(bin(e))
-print(c&e)
+print(c^e)
 
+x=71
+y=91
+print(x&y)
+
+
+x=71
+y=91
+print(x^y)
+
+
+x=71
+y=91
+print(x^y)
